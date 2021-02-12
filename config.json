@@ -6,14 +6,14 @@
 	},
 	"intro": {
 		"title": "敏兒",
-		"subtitle": "True nobility is being superior to your former self~~~",
+		"subtitle": "It's now or never !",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": false
 	},
 	"main": {
 		"name": "敏兒--",
-		"signature": "Code & Input & Output",
+		"signature": "Input & Output",
 		"avatar": {
 			"link": "assets/avatar.png",
 			"height": "80",
