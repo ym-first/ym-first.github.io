@@ -48,9 +48,9 @@
 				"text": "Github"
 			},
 			"quarter_third": {
-				"href": "https://github.com/ym-first",
-				"icon": "twitter",
-				"text": "Twitter"
+				"href": "blog/recent/",
+				"icon": "weibo",
+				"text": "Weibo"
 			},
 			"quarter_fourth": {
 				"href": "javascript:;",
