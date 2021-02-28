@@ -2,6 +2,7 @@
 	font-family: 'iconfont';
 	font-display: auto;
 	src: url('//at.alicdn.com/t/font_1056856_p9cyrhslv5j.eot?t=1551327438450'); /* IE9 */
+	src:url('//at.alicdn.com/t/font_2391605_mhgtvvlwx6a.css');
 	src: url('//at.alicdn.com/t/font_1056856_p9cyrhslv5j.eot?t=1551327438450#iefix')
 			format('embedded-opentype'),
 		/* IE6-IE8 */
@@ -33,7 +34,7 @@
 	content: '\e7ab';
 }
 
-.icon-twitter:before {
+.icon-weibo:before {
 	content: '\ecc1';
 }
 
@@ -57,3 +58,49 @@
 .icon-wechat:before {
 	content: '\f23b';
 }
+
+@font-face {font-family: "iconfont";
+	src: url('//at.alicdn.com/t/font_2391606_jjvs5e85db.eot?t=1614500082189'); /* IE9 */
+	src: url('//at.alicdn.com/t/font_2391606_jjvs5e85db.eot?t=1614500082189#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('data:application/x-font-woff2;charset=utf-8;base64,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') format('woff2'),
+	url('//at.alicdn.com/t/font_2391606_jjvs5e85db.woff?t=1614500082189') format('woff'),
+	url('//at.alicdn.com/t/font_2391606_jjvs5e85db.ttf?t=1614500082189') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+	url('//at.alicdn.com/t/font_2391606_jjvs5e85db.svg?t=1614500082189#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-about:before {
+	content: "\e627";
+  }
+  
+  .icon-weibo:before {
+	content: "\e888";
+  }
+  
+  .icon-email:before {
+	content: "\e600";
+  }
+  
+  .icon-bokeyuan:before {
+	content: "\e601";
+  }
+  
+  .icon-weixin:before {
+	content: "\e7d6";
+  }
+  
+  .icon-huaban88:before {
+	content: "\e602";
+  }
+  
+  .icon-other9:before {
+	content: "\e630";
+  }
+  
