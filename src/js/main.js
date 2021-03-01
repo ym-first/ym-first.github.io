@@ -1,5 +1,4 @@
 "use strict";
-const canvas = document.getElementById('background');
 function _toConsumableArray(e) {
     return _arrayWithoutHoles(e) || _iterableToArray(e) || _nonIterableSpread()
 }
